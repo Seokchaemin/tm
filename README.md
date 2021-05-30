@@ -27,7 +27,7 @@ download all image 활용|각 110|
  ## 4. 실행
   * 학습한 내용을 실행시키기
   * 오류없이 학습되었는지 확인
-  
+  [강아지상고양이상}(https://teachablemachine.withgoogle.com/models/4HZgbLkry/)
   
   
  ## 느낀점
@@ -64,7 +64,7 @@ download all image 활용|각 110|
 
 
 
-https://teachablemachine.withgoogle.com/models/4HZgbLkry/
+
 
 1416석채민, https://github.com/Seokchaemin/scm.git,
 2021.05.20 수업 (1차시)
