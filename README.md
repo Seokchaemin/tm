@@ -12,7 +12,13 @@
 학습에 필요한 에너지|강아지, 고양이|
 download all image 활용|각 110|
 
-> 구글 이미지에서 강아지 검색하고 저장
+> Download all Images 설치하기
+>  > 구글에서 강아지, 고양이 사진 검색해서 다운받기
+>  >  > 다운받은 사진 점검하고 저장하기
+
+## 2. 프로젝트 만들기
+1) ("Teachable machine"); 들어가기 
+
 
 
 
@@ -39,7 +45,7 @@ download all image 활용|각 110|
 https://teachablemachine.withgoogle.com/models/4HZgbLkry/
 
 1416석채민, https://github.com/Seokchaemin/scm.git,
-2021.05.20 수업
+2021.05.20 수업 (1차시)
 
 오늘 배운 내용 보고서
 -------------
