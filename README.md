@@ -17,8 +17,11 @@ download all image 활용|각 110|
 >  >  > 다운받은 사진 점검하고 저장하기
 
 ## 2. 프로젝트 만들기
-''' java
-1) ("Teachable machine"); 들어가기 
+ 1) "Teachable machine" 들어가기 [Teachable Machine](https://teachablemachine.withgoogle.com/)
+ 2) 저장한 이미지를 강아지, 고양이로 분류하기
+ 3) 오류있는 사진이 있는지 없는지 점검하기
+ 4) 
+
 
 
 
