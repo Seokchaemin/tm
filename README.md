@@ -1,6 +1,7 @@
  인공지능 모델 만들기 1416 석채민
+ 5.26(수)2차시 수업
  
- ## ** 주제 : 깃허브를 통한 고양이상 강아지상 얼굴 찾기**
+ ## * 주제 : 깃허브를 통한 고양이상 강아지상 얼굴 찾기 *
  
  
 ### :star:[작성방법]:star:
@@ -35,7 +36,7 @@ download all image 활용|각 100|
 
 
 
-
+https://teachablemachine.withgoogle.com/models/4HZgbLkry/
 
 1416석채민, https://github.com/Seokchaemin/scm.git,
 2021.05.20 수업
