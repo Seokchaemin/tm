@@ -27,15 +27,15 @@ download all image 활용|각 110|
 
 ## 3. 프로젝트 만들기
  1)  [Teachable Machine](https://teachablemachine.withgoogle.com/) 들어가기
- 2)  이미지 프로젝트 선택 : (https://teachablemachine.withgoogle.com/models/xJ-Q4HuTp/) 
- 3) 저장한 이미지를 강아지, 고양이로 분류하기
+ 2)  이미지 프로젝트 선택  
+ 3) 저장한 이미지를 강아지상, 고양이로 분류하기
  4) 오류있는 사진이 있는지 없는지 점검하기
  
  
  ## 4. 실행
   * 학습한 내용을 실행시키기
   * 오류없이 학습되었는지 확인
-  [강아지상고양이상}(https://teachablemachine.withgoogle.com/models/4HZgbLkry/)
+  [강아지상고양이상}(https://teachablemachine.withgoogle.com/models/xJ-Q4HuTp/)
   
   
  ## 느낀점
